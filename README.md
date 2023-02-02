@@ -9,6 +9,7 @@ cd WP_Scanner
 pip3 install -r requirements.txt
 ```
 <hr>
+
 TO START SCANNING RUN<br>
 ```
 python3 scan.py <url>
