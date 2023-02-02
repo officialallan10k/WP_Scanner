@@ -1,5 +1,5 @@
 # WP-Scanner
-Upgraded Version of WP_Scanner by GH0STH4CKER.
+<center>Upgraded Version of WP_Scanner by GH0STH4CKER.</center>
 <hr>
 
 MUST DO FIRST<br>
