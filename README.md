@@ -1,1 +1,1 @@
-# WP_Scanner
+# wp-scanner
