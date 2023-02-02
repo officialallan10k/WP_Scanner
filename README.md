@@ -1,6 +1,8 @@
 # WP-Scanner
+Upgraded Version of WP_Scanner by GH0STH4CKER.
+<hr>
 
-Must do first<br>
+MUST DO FIRST<br>
 ```
 git clone https://github.com/officialallan10k/WP_Scanner/
 cd WP_Scanner
