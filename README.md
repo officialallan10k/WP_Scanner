@@ -4,7 +4,7 @@ Must do first<br>
 ```
 git clone https://github.com/officialallan10k/WP_Scanner/
 cd WP_Scanner
-pip3 install requirements.txt
+pip3 install -r requirements.txt
 ```
 TO START SCANNING RUN<br>
 ```
